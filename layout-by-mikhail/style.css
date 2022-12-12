@@ -12,7 +12,8 @@ html {
 .body {
     padding-top: 1%;
     color: rgb(133, 0, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
 }
 .header {
     border-bottom: 1px double black;
@@ -33,7 +34,7 @@ html {
 .logo_telegram {
     display: inline-block;
 }                       /*логотип телеграм*/
-.header, h1, p {
+.header, h1 {
     text-align: center;
 }
 .section {
@@ -41,7 +42,7 @@ html {
     height: 740px;
 }
 .content {
-    margin: 200px 90px 200px 0px; 
+    margin: 100px 90px 200px 0px; 
     float: right;
     width: 35%;
     height: 50%;
